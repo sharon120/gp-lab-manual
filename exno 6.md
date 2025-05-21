@@ -29,4 +29,4 @@ Implement the AI random movement.
 
 
 ## Result:
-Thus, the AI concept to the actor for a random movement is imple
+Thus, the AI concept to the actor for a random movement is implemented successfully.
